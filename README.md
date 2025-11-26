@@ -1,7 +1,6 @@
 ## Hi! I'm Lucas
 - 🎓 Computer Science at UWaterloo
 - 🎨 Exploring the intersection of art and technology
-- 🏃 Fun fact: I'm training for a marathon
 <!--
 **Lucas-Wng/Lucas-Wng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

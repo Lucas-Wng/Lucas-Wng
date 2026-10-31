@@ -1,4 +1,5 @@
 ## Hi! I'm Lucas
+- 🚗 Software Engineer Intern at Tesla
 - 🎓 Computer Science at UWaterloo
 - 🎨 Computer Graphics and C++
 <!--
